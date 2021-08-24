@@ -1,4 +1,49 @@
 body{
 
 	background-color: cadetblue;
+	color: #fff;
+	margin-right: 10%;
+	margin-left: 10%;
+
 }
+
+h1{
+
+	text-align: center;
+	border: 3px dotted #fff;
+}
+
+p{
+
+	text-align: justify;
+	text-indent: 30px;
+	font-size: 18px;
+}
+
+img{
+
+	width: 80%;
+}
+
+figure{
+
+	text-align: center;
+}
+
+
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+ td, th {
+ 	border: 1px solid #dddddd;
+ 	text-align: left;
+ 	padding: 8px;
+ }
+ 
+ tr:nth-child(even){
+ 	background-color: #dddddd;
+ 	
+ }
